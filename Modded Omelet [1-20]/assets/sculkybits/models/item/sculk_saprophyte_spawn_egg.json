@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/spawn_egg",
   "textures": {
-    "egg": "unusual_prehistory:item/unicorn_spawn_egg"
+    "egg": "sculkybits:item/sculk_saprophyte_spawn_egg"
   }
 }

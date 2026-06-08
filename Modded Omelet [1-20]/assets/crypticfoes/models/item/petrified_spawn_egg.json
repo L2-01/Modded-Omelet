@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "crypticfoes:item/petrified_spawn_egg"
+  }
+}

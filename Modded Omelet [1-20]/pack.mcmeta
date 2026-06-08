@@ -1,7 +1,9 @@
 {
     "pack": {
         "description": "By L2",
+		"min_format": 15,
+		"max_format": 999,
         "pack_format": 15,
-        "supported_formats": { "min_inclusive": 15, "max_inclusive": 95 }
+        "supported_formats": { "min_inclusive": 15, "max_inclusive": 999 }
 		}
 }

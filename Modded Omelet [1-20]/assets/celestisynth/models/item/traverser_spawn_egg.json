@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "celestisynth:item/traverser_spawn_egg"
+  }
+}

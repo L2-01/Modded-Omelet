@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "lava_monster:item/lava_monster_spawn_egg"
+  }
+}

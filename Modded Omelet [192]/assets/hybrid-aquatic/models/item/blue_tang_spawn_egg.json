@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "hybrid-aquatic:item/blue_tang_spawn_egg"
+  }
+}

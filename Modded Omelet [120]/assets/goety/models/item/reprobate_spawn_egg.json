@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "goety:item/reprobate_spawn_egg"
+  }
+}

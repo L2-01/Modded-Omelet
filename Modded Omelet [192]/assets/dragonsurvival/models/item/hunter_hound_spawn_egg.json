@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "dragonsurvival:item/hunter_hound_spawn_egg"
+  }
+}

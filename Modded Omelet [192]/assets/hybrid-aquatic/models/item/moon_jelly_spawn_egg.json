@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "hybrid-aquatic:item/moon_jelly_spawn_egg"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/spawn_egg",  
+  "parent": "minecraft:item/spawn_egg",
   "textures": {
     "egg": "eeeabsmobs:item/immortal_knight_egg"
   }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "tome_of_wonders:item/flying_fish_spawn_egg"
+  }
+}

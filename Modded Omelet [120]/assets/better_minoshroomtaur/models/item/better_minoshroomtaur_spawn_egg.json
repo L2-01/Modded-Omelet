@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "better_minoshroomtaur:item/better_minoshroomtaur_spawn_egg"
+  }
+}

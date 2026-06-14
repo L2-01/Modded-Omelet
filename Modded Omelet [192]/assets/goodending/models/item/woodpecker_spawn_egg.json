@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "goodending:item/woodpecker_spawn_egg"
+  }
+}

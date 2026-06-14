@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "mbembe:item/dodo_spawn_egg"
+  }
+}

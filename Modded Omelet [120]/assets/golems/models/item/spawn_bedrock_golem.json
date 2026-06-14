@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "golems:item/spawn_bedrock_golem"
+  }
+}

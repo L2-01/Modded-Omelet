@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "habitat:item/pooka_spawn_egg"
+  }
+}

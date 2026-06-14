@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "habitat:item/passerine_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "masquerader_mod:item/masquerader_spawn_egg"
+  }
+}

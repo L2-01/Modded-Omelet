@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "seeds:item/bad_grass_spawn_egg"
+  }
+} 

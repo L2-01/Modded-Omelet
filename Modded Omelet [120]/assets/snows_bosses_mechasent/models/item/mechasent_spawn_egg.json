@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "snows_bosses_mechasent:item/mechasent_spawn_egg"
+  }
+}

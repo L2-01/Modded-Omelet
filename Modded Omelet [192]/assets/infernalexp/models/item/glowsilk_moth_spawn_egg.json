@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "infernalexp:item/glowsilk_spawn_egg"
+  }
+}

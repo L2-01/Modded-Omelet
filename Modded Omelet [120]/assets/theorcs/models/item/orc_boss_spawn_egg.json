@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "theorcs:item/orc_boss_spawn_egg"
+  }
+}

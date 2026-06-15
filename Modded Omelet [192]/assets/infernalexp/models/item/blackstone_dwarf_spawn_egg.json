@@ -1,0 +1,6 @@
+ {
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "infernalexp:item/blackstone_dwarf_spawn_egg"
+  }
+}

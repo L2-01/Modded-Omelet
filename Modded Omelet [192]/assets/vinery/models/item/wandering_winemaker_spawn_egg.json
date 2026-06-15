@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "vinery:item/wandering_winemaker_spawn_egg"
+  }
+}

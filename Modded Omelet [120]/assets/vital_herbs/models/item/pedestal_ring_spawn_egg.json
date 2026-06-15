@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "vital_herbs:item/pedestal_ring_spawn_egg"
+  }
+}

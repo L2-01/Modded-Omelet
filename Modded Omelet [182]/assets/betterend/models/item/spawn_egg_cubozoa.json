@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "gui_light": "front",
+  "textures": {
+    "egg": "betterend:item/spawn_egg_cubozoa"
+  }
+}

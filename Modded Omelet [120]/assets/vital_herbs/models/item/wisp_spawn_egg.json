@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "vital_herbs:item/wisp_spawn_egg"
+  }
+}

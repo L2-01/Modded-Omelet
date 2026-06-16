@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "moregolems:item/castle_golem_spawn_egg"
+  }
+}

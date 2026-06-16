@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "undead_unleashed:item/flamebreather_spawn_egg"
+  }
+}

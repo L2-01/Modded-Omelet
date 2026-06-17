@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "illager_universe:item/shadow_goat_spawn_egg"
+  }
+}

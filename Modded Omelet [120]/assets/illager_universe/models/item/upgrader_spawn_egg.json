@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "illager_universe:item/upgrader_spawn_egg"
+  }
+}

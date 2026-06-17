@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "meetyourfight:item/swampjaw_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "vanilla_degus:item/degu_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:creeper_spawn_egg",
+  "require_mods": [ "creeperoverhaul" ],
+  "model": "minecraft:item/creeper_overhaul_spawn_egg"
+}

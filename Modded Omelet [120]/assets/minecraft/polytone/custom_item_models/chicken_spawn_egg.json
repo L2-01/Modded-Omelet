@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:chicken_spawn_egg",
+  "require_mods": [ "nomansland" ],
+  "model": "minecraft:item/chicken_nomans_spawn_egg"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:pig_spawn_egg",
+  "require_mods": [ "nomansland" ],
+  "model": "minecraft:item/pig_nomans_spawn_egg"
+}

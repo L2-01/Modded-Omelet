@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:glow_squid_spawn_egg",
+  "require_mods": [ "nomansland" ],
+  "model": "minecraft:item/glow_squid_nomans_spawn_egg"
+}

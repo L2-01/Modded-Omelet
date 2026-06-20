@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "twilight_forest_final_boss:item/castle_keeper_spawn_egg"
+  }
+}

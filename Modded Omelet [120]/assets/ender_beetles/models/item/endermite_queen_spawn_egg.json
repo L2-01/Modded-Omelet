@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "ender_beetles:item/endermite_queen_spawn_egg"
+  }
+}

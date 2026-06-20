@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "corundumguardian:item/corundum_guardian_spawn_egg"
+  }
+}

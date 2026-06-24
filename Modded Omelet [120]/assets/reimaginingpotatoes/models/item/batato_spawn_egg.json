@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "reimaginingpotatoes:item/batato_spawn_egg"
+  }
+} 

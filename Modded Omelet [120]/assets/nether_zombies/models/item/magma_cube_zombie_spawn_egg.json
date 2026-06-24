@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "nether_zombies:item/magma_cube_zombie_spawn_egg"
+  }
+}

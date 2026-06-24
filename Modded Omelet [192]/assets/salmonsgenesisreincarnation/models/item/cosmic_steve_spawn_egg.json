@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "salmonsgenesisreincarnation:item/cosmic_steve_spawn_egg"
+  }
+}

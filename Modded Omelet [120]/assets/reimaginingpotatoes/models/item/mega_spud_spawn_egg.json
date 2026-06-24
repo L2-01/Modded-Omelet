@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "reimaginingpotatoes:item/mega_spud_spawn_egg"
+  }
+} 

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "nether_zombies:item/strider_zombie_spawn_egg"
+  }
+}

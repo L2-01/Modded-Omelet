@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "nether_zombies:item/crimson_zombie_spawn_egg"
+  }
+}

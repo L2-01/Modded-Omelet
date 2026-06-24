@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "reimaginingpotatoes:item/poisonous_potato_zombie_spawn_egg"
+  }
+} 

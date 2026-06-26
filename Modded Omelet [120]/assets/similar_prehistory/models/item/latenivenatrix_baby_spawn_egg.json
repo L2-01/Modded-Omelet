@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "similar_prehistory:item/latenivenatrix_baby_spawn_egg"
+  }
+}

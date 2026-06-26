@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "bee_queen_ds:item/tamed_bee_spawn_egg"
+  }
+}

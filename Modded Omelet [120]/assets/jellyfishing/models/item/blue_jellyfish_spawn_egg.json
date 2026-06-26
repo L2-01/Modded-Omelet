@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "jellyfishing:item/blue_jellyfish_spawn_egg"
+  }
+}

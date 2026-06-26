@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "jellyfishing:item/two_fisted_jumper_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "outer_end:item/himmelite_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "outer_end:item/purpur_golem_spawn_egg"
+  }
+}

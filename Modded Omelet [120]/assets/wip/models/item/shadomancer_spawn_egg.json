@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "wip:item/shadomancer_spawn_egg"
+  }
+}

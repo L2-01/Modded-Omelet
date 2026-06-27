@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "wip:item/pale_allay_spawn_egg"
+  }
+}

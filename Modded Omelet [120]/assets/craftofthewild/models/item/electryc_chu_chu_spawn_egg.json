@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "craftofthewild:item/electryc_chu_chu_spawn_egg"
+  }
+}

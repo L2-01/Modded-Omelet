@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "recruits:item/bowman_spawn_egg"
+  }
+}

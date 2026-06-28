@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "inhabitants:item/impaler_spawn_egg"
+  }
+}

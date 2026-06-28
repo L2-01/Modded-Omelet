@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "recruits:item/villager_noble_spawn_egg"
+  }
+}

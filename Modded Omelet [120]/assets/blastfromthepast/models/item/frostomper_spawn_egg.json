@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "blastfromthepast:item/frostomper_spawn_egg"
+  }
+}

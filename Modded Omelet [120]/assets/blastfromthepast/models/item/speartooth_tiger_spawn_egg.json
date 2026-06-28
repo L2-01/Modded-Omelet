@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "blastfromthepast:item/speartooth_tiger_spawn_egg"
+  }
+}

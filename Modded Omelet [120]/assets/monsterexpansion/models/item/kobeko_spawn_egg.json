@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "monsterexpansion:item/kobeko_spawn_egg"
+  }
+}

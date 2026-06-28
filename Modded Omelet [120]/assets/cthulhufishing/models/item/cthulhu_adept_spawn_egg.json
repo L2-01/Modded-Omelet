@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "cthulhufishing:item/cthulhu_adept_spawn_egg"
+  }
+}

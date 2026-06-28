@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:rabbit_spawn_egg",
+  "require_mods": [ "primal" ],
+  "model": "minecraft:item/rabbit_primal_spawn_egg"
+}

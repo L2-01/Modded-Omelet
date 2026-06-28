@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:dolphin_spawn_egg",
+  "require_mods": [ "primal" ],
+  "model": "minecraft:item/dolphin_primal_spawn_egg"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:polar_bear_spawn_egg",
+  "require_mods": [ "primal" ],
+  "model": "minecraft:item/polar_bear_primal_spawn_egg"
+}

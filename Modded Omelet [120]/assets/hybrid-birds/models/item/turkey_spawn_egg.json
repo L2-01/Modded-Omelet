@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "hybrid-birds:item/turkey_spawn_egg"
+  }
+}

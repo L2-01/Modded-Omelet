@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "cthulhufishing:item/obsessed_eye_boss_spawn_egg"
+  }
+}

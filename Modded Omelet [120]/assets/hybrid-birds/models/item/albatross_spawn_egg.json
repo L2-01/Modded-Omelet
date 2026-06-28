@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "hybrid-birds:item/albatross_spawn_egg"
+  }
+}

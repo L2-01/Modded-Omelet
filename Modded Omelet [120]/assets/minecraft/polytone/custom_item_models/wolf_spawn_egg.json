@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:wolf_spawn_egg",
+  "require_mods": [ "primal" ],
+  "model": "minecraft:item/wolf_primal_spawn_egg"
+}

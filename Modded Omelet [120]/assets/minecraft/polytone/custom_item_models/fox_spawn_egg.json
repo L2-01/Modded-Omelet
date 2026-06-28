@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:fox_spawn_egg",
+  "require_mods": [ "primal" ],
+  "model": "minecraft:item/fox_primal_spawn_egg"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "butcher:item/zombiewolf_spawn_egg"
+  }
+}

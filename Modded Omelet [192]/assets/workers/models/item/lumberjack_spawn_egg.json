@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "workers:item/lumberjack_spawn_egg"
+  }
+}

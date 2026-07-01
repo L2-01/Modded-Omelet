@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "apollyon:item/the_infector_spawn_egg"
+  }
+}

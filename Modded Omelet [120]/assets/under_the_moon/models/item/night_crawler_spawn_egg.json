@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "under_the_moon:item/night_crawler_spawn_egg"
+  }
+}

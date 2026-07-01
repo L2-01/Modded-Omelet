@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "under_the_moon:item/quillback_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "desolation:item/ash_scuttler_spawn_egg"
+  }
+}

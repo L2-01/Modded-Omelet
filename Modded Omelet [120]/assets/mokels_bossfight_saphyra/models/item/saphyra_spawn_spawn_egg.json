@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "mokels_bossfight_saphyra:item/saphyra_spawn_spawn_egg"
+  }
+}

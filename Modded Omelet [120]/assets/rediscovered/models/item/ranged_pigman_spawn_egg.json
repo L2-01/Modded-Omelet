@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "rediscovered:item/ranged_pigman_spawn_egg"
+  }
+}

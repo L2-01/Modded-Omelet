@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "rediscovered:item/black_steve_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "rediscovered:item/beast_boy_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "crittersandcompanions:item/stick_bug_spawn_egg"
+  }
+}

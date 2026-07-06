@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "tameablebeasts:item/beetle_spawn_egg"
+  }
+}

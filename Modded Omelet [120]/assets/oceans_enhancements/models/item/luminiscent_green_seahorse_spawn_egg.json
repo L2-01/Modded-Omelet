@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "oceans_enhancements:item/luminiscent_green_seahorse_spawn_egg"
+  }
+}

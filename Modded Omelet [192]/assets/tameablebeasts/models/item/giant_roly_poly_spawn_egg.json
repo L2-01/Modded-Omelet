@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "tameablebeasts:item/giant_roly_poly_spawn_egg"
+  }
+}

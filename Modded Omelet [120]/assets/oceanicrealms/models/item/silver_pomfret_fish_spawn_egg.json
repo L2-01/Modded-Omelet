@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "oceanicrealms:item/silver_pomfret_fish_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "oceanicrealms:item/whaleshark_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "luminous_monsters:item/crimson_walker_spawn_egg"
+  }
+}

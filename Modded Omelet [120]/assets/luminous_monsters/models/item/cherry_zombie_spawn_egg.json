@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "luminous_monsters:item/cherry_zombie_spawn_egg"
+  }
+}

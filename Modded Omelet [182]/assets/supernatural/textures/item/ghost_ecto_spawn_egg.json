@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "supernatural:item/ghost_ecto_spawn_egg"
+  }
+}

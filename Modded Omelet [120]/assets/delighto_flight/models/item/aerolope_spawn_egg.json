@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "delighto_flight:item/aerolope_spawn_egg"
+  }
+}

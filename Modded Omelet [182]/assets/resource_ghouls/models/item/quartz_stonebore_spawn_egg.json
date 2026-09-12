@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "resource_ghouls:item/quartz_stonebore_spawn_egg"
+  }
+}

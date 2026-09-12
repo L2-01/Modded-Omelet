@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "mythsandlegends:item/black_charro_spawn_egg"
+  }
+}

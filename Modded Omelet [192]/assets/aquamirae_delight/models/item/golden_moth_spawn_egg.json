@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "aquamirae_delight:item/golden_moth_spawn_egg"
+  }
+}

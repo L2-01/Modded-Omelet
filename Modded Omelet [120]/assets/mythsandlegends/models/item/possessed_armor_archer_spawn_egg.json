@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "mythsandlegends:item/possessed_armor_archer_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "mythsandlegends:item/amarok_spawn_egg"
+  }
+}

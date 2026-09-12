@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "fennecfox:item/fennecfox_spawn_egg"
+  }
+}

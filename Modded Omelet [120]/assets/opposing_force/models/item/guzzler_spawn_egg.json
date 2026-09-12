@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "opposing_force:item/guzzler_spawn_egg"
+  }
+}

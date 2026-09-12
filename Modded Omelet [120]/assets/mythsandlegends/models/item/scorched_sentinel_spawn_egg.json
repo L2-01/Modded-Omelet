@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "mythsandlegends:item/scorched_sentinel_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "sorcerousnether:item/lost_spawn_egg"
+  }
+}

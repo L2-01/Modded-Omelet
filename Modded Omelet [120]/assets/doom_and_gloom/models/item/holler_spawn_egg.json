@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "doom_and_gloom:item/holler_spawn_egg"
+  }
+}

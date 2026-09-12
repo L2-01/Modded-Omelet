@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "mythsandlegends:item/warborn_aegis_spawn_egg"
+  }
+}

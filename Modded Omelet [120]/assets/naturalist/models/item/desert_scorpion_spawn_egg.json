@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "naturalist:item/desert_scorpion_spawn_egg"
+  }
+}

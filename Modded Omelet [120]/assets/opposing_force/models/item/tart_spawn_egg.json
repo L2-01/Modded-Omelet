@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "opposing_force:item/tart_spawn_egg"
+  }
+}

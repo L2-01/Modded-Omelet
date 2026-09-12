@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "player_mobs:item/player_mob_spawn_egg"
+  }
+}

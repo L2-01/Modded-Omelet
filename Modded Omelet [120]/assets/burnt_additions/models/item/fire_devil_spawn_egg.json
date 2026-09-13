@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "burnt_additions:item/fire_devil_spawn_egg"
+  }
+}

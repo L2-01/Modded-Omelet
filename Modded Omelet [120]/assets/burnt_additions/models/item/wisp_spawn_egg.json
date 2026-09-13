@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "burnt_additions:item/wisp_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "mca:item/grim_reaper_spawn_egg"
+  }
+}

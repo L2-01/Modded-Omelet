@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/spawn_egg",
   "textures": {
-    "egg": "wetland_whimsy:item/swamp_spider_spawn_egg"
+    "egg": "goety:item/royal_guard_servant_spawn_egg"
   }
 }

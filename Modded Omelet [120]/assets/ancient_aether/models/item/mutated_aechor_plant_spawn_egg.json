@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "ancient_aether:item/mutated_aechor_plant_spawn_egg"
+  }
+}

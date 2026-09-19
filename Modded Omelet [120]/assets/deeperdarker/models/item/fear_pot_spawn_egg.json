@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "deeperdarker:item/fear_pot_spawn_egg"
+  }
+}

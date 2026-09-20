@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/spawn_egg",  
   "textures": {
-    "egg": "unseen_world:item/espyer_spawn_egg"
+    "egg": "unseen_world:item/void_endermen_spawn_egg"
   }
 }

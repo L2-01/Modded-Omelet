@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/spawn_egg",  
   "textures": {
-    "egg": "unseen_world:item/violeger_spawn_egg"
+    "egg": "unseen_world:item/ghast_of_tealive_valley_spawn_egg"
   }
 }

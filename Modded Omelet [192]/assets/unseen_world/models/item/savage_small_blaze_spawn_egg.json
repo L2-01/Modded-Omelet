@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "unseen_world:item/savage_small_blaze_spawn_egg"
+  }
+}

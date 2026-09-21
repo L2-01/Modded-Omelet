@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "the_beyond:item/abyssal_nomad_spawn_egg"
+  }
+}

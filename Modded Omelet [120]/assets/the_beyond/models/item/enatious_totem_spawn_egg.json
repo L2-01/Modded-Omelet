@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "the_beyond:item/enatious_totem_spawn_egg"
+  }
+} 

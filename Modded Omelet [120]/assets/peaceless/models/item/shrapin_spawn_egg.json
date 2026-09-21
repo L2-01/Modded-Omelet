@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "peaceless:item/shrapin_spawn_egg"
+  }
+}

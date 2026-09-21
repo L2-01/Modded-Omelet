@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "pastel:item/eraser_spawn_egg"
+  }
+}

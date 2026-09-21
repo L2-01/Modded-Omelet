@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "pastel:item/egg_laying_wooly_pig_spawn_egg"
+  }
+}

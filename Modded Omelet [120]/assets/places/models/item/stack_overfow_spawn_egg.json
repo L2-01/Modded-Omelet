@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "places:item/stack_overfow_spawn_egg"
+  }
+}

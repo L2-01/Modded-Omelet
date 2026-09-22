@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "places:item/menger_stalker_spawn_egg"
+  }
+}

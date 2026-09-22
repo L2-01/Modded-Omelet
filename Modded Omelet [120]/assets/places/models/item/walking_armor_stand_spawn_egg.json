@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "places:item/walking_armor_stand_spawn_egg"
+  }
+}

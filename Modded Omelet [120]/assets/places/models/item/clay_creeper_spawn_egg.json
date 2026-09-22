@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "places:item/clay_creeper_spawn_egg"
+  }
+}

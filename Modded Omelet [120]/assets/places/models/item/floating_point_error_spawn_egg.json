@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "places:item/floating_point_error_spawn_egg"
+  }
+}

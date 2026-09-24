@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminous_halloween:item/horseless_headsman_spawn_egg"
+  }
+}

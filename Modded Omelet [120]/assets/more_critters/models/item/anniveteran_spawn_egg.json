@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "more_critters:item/anniveteran_spawn_egg"
+  }
+}

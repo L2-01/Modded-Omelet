@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "dwarfmod:item/enchanter_dwarf_spawn_egg"
+  }
+}

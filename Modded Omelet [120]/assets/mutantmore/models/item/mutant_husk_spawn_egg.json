@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "mutantmore:item/mutant_husk_spawn_egg"
+  }
+}

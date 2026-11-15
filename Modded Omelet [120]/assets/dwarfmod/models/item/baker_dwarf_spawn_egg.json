@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/spawn_egg",
+  "parent": "minecraft:item/spawn_egg",  
   "textures": {
     "egg": "dwarfmod:item/baker_dwarf_spawn_egg"
   }

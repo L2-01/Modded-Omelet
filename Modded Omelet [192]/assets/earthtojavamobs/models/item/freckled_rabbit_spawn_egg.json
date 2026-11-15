@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "earthtojavamobs:item/freckled_rabbit_spawn_egg"
+  }
+}

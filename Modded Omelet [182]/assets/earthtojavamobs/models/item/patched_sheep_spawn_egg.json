@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "earthtojavamobs:item/patched_sheep_spawn_egg"
+  }
+}

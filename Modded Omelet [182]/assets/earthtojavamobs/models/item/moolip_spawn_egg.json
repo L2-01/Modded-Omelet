@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "earthtojavamobs:item/moolip_spawn_egg"
+  }
+}

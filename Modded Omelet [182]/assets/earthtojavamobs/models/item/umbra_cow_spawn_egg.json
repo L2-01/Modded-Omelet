@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "earthtojavamobs:item/umbra_cow_spawn_egg"
+  }
+}

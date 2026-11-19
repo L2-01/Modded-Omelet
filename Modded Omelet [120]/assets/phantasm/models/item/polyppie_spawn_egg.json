@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "phantasm:item/polyppie_spawn_egg"
+  }
+}

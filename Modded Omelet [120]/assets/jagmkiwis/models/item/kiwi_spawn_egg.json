@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "jagmkiwis:item/kiwi_spawn_egg"
+  }
+}

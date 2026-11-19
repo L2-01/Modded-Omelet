@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "netherdescent:item/soul_ghast_spawn_egg"
+  }
+}

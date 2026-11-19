@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "description": "By L2",
+		"min_format": 15,
+		"max_format": 999,
+        "pack_format": 15,
+        "supported_formats": { "min_inclusive": 15, "max_inclusive": 999 }
+		},
+	"overlays": {
+		"entries": [
+      {
+        "directory": "overlay_1_21_11",
+        "formats": [75, 99],
+        "min_format": 75,
+        "max_format": 99
+      }
+    ]
+  }
+}

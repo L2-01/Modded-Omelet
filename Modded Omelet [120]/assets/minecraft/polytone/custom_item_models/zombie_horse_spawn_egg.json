@@ -1,0 +1,6 @@
+{
+  "type": "polytone:item_model",
+  "item": "minecraft:zombie_horse_spawn_egg",
+  "require_mods": [ "vanillabackport" ],
+  "model": "minecraft:item/zombie_horse_new_spawn_egg"
+}

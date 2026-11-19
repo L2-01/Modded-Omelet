@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "tolerable_creepers:item/creepie_spawn_egg"
+  }
+}

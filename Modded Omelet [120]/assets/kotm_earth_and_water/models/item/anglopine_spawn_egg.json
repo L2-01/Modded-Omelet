@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "kotm_earth_and_water:item/anglopine_spawn_egg"
+  }
+}

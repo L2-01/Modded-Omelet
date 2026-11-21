@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "phantasm:item/sour_sludge_spawn_egg"
+  }
+}

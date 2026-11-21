@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "blue_skies:item/nested_spider_spawn_egg"
+  }
+}

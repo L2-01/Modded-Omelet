@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "kotmsharpsweet:item/dragan_spawn_egg"
+  }
+}

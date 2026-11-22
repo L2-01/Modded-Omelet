@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminous_beasts:item/frigid_gator_spawn_egg"
+  }
+}

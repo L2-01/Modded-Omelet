@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminous_beasts:item/woodland_witch_doctor_spawn_egg"
+  }
+}

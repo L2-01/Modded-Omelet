@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminous_beasts:item/crimson_mushlin_king_spawn_egg"
+  }
+}

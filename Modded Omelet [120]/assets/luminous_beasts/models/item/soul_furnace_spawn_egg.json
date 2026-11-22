@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminous_beasts:item/soul_furnace_spawn_egg"
+  }
+}

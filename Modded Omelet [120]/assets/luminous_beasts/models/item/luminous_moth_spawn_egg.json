@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminous_beasts:item/luminous_moth_spawn_egg"
+  }
+}

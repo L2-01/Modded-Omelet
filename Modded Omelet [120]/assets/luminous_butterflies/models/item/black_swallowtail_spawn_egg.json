@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminous_butterflies:item/black_swallowtail_spawn_egg"
+  }
+}

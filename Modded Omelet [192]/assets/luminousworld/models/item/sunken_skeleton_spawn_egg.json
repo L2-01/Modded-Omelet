@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminousworld:item/sunken_skeleton_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminousworld:item/black_squirrel_spawn_egg"
+  }
+}

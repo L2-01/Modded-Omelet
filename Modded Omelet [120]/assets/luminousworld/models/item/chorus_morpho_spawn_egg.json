@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminousworld:item/chorus_morpho_spawn_egg"
+  }
+}

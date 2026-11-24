@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "creaturefeature:item/powder_skull_spawn_egg"
+  }
+}

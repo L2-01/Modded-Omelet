@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "luminousworld:item/baby_wind_phoenix_spawn_egg"
+  }
+}

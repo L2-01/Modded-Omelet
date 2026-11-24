@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "creaturefeature:item/detritus_spawn_egg"
+  }
+}

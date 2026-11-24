@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "king_gumborah:item/king_gumborah_spawn_egg"
+  }
+}

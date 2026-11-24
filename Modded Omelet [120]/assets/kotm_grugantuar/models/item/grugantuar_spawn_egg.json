@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "kotm_grugantuar:item/grugantuar_spawn_egg"
+  }
+}

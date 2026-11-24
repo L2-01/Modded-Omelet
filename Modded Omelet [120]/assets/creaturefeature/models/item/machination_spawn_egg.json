@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "creaturefeature:item/machination_spawn_egg"
+  }
+}

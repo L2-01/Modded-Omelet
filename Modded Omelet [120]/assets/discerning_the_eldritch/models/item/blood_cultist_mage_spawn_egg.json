@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "discerning_the_eldritch:item/blood_cultist_mage_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "endlessbiomes:item/riftite_sentinel_spawn_egg"
+  }
+}

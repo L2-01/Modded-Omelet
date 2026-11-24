@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "croaks:item/croak_king_spawn_egg"
+  }
+}

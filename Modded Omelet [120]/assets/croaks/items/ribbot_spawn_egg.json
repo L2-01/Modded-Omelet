@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "croaks:item/ribbot_spawn_egg"
+  }
+}

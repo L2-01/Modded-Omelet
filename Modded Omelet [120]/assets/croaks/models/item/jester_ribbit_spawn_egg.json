@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "croaks:item/jester_ribbit_spawn_egg"
+  }
+}

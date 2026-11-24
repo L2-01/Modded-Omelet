@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "croaks:item/amethyst_croak_spawn_egg"
+  }
+}

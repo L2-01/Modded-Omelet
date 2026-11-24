@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "croaks:item/barrel_bot_entity_spawn_egg"
+  }
+}

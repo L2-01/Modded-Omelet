@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "environmental:item/zonkey_spawn_egg"
+  }
+}

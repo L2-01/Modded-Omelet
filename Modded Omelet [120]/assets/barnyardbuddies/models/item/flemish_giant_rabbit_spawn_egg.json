@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "barnyardbuddies:item/flemish_giant_rabbit_spawn_egg"
+  }
+}

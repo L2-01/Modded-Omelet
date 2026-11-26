@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "galosphere:item/preserved_spawn_egg"
+  }
+}

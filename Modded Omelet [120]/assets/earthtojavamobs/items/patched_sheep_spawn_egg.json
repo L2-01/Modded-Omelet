@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "earthtojavamobs:item/patched_sheep_spawn_egg"
+  }
+}

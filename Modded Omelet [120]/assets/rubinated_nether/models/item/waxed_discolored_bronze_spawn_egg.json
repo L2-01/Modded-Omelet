@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "rubinated_nether:item/waxed_discolored_bronze_spawn_egg"
+  }
+}

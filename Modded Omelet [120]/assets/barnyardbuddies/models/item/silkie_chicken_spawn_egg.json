@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "barnyardbuddies:item/silkie_chicken_spawn_egg"
+  }
+}

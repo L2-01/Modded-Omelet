@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "aqcaracal:item/caracal_spawn_egg"
+  }
+}

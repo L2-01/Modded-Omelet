@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+  "textures": {
+    "egg": "arkane_domains:item/dark_shaman_spawn_egg"
+  }
+}

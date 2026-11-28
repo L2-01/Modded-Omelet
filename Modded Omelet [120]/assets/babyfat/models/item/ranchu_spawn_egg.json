@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",  
+  "textures": {
+    "egg": "babyfat:item/ranchu_spawn_egg"
+  }
+}
